@@ -18,7 +18,14 @@ p {
     text-align: center;
   }
 
- /* #bar {
-    background-color: lightblue;
+#bar {
+    background-color: rgba(173, 216, 230, 0.562);
   } 
 
+#gauge {
+    background-color: rgba(173, 216, 230, 0.562);
+  } 
+
+/* #bubble {
+    background-color: rgba(173, 216, 230, 0.562);
+  } 
