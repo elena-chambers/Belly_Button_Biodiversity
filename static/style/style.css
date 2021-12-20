@@ -1,0 +1,24 @@
+body {
+
+    color: #866060;
+  }
+  
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+
+p {
+    color: white;
+    text-shadow: 10px 10px 12px #000000;
+  }
+.jumbotron {
+    background-image: url("../images/microscope.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+ /* #bar {
+    background-color: lightblue;
+  } 
+
