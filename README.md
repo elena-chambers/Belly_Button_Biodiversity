@@ -18,3 +18,4 @@ Style Changes:
 - changed background color
 - modified font color (and bolded chart titles)
 - made chart backgrounds transparent/semi-transparent
+- made site mobile responsive
